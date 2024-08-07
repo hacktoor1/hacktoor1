@@ -26,9 +26,9 @@ OSCP, eJPT, eWPT, eWPTXv2
 
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Spider-Security&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Spider-Security&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Elite&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Elite&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)-->
 
 
 
