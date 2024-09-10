@@ -25,13 +25,15 @@ OSCP, eJPT, eWPT, eWPTXv2
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="400">
 
 </br>
+<img src="https://tryhackme.com/badge/1860721" width="400">
+
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Spider-Security&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Elite&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)-->
 
-<script src="https://tryhackme.com/badge/1860721"></script>
 
+[![Github Badge](https://tryhackme.com/badge/1860721)](https://github.com/hacktoor1/)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hacktoor1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/github-readme-stats)
 
