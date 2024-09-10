@@ -22,6 +22,7 @@ OSCP, eJPT, eWPT, eWPTXv2
 
 <br>
 
+![Logo](https://tryhackme.com/badge/1860721)
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="400">
 
 </br>
