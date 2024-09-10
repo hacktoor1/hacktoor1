@@ -20,9 +20,9 @@ Red Teamer Student |Jr Penetration Tester |  Hacking is NOT a Crime Advocate
 
 OSCP, eJPT, eWPT, eWPTXv2 
 
-<br>
+<be>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1860721.png)](https://tryhackme.com/p/1860721)
 
-![Logo](https://tryhackme.com/badge/1860721)
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="400">
 
 </br>
