@@ -30,6 +30,7 @@ OSCP, eJPT, eWPT, eWPTXv2
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hacktoor1&repo=Elite&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/Spider-Security)-->
 
+<script src="https://tryhackme.com/badge/1860721"></script>
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hacktoor1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/hacktoor1/github-readme-stats)
