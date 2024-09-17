@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8361ede9-b70f-486e-861b-9334976a3b43)## Hi there 👋
+![image](https://github.com/user-attachments/assets/8361ede9-b70f-486e-861b-9334976a3b43)## 
+Hi there 👋
 
 <!--
 **hacktoor1/hacktoor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Red Teamer Student |Jr Penetration Tester |  Hacking is NOT a Crime Advocate
 
 OSCP, eJPT, eWPT, eWPTXv2 
 
-<be>
+<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/h3ckt00r.png?8" alt="TryHackMe">
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="400">
 
